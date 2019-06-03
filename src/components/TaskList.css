@@ -1,0 +1,12 @@
+.list-items {
+  display: flex;
+  flex-direction: column;
+}
+
+.PINNED {
+  order: 1;
+}
+
+.INBOX {
+  order: 2;
+}
